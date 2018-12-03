@@ -4,6 +4,10 @@
 
 This module provides extension point/plugin interfaces for the RestApiDocumentationGenerator module.
 
+**This module is not continued at this point.**
+
+Please, use [spryker/documentation-generator-rest-api](https://github.com/spryker/documentation-generator-rest-api-extension) instead
+
 ## Installation
 
 ```
